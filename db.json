@@ -4,31 +4,31 @@
         "1":
         {
             "name": "Tamplate Form 1",
-            "user_email": "blabla@gmail.com"
+            "user_email": "email"
         },
         "2":
         {
             "name": "Tamplate Form 2",
-            "user_email": "blabla@gmail.com",
-            "phone_number": "+7 555 555 55 55"
+            "user_email": "email",
+            "phone_number": "phone_number"
         },
         "3":
         {
             "name": "Tamplate Form 3",
-            "user_email": "blabla@gmail.com",
-            "phone_number": "+7 555 555 55 55",
-            "order_date": "01.01.2000"
+            "user_email": "email",
+            "phone_number": "phone_number",
+            "order_date": "date"
         },
         "4":
         {
             "name": "Tamplate Form 4",
-            "order_date": "2000-01-01"
+            "order_date": "date"
         },
         "5":
         {
             "name": "Tamplate Form 5",
-            "phone_number": "+7 555 555 55 55",
-            "order_date": "01.01.2000"
+            "phone_number": "phone_number",
+            "order_date": "date"
         }
     }
 }

@@ -32,7 +32,7 @@ def _validate_date(date_string):
 		return True
 
 def _validate_phone_number(phone_number_string):
-	if re.match(r'7 \d{3} \d{3} \d{2} \d{2}', phone_number_string[1:]):
+	if re.match(r'\+7 \d{3} \d{3} \d{2} \d{2}', phone_number_string):
 		return True
 	else:
 		return False
